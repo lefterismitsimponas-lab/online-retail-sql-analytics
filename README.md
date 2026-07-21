@@ -1,7 +1,11 @@
 # online-retail-sql-analytics
 SQL-based data cleaning, customer segmentation, and behavior analytics on an E-commerce retail dataset.
 
-# E-Commerce Data Cleaning and Sales Analytics
+### 📈 Business Impact
+- **Inventory Control:** Identifies high-volume vs. high-yield products to reduce storage costs.
+- **Seasonality Insights:** Uncovers monthly trendsetters for targeted marketing campaigns.
+- **Retention Mapping:** Segments VIP and repeat buyers for loyalty program positioning.
+
 
 ## Project Overview
 This project is an end-to-end SQL analysis using a raw e-commerce dataset (2010-2011). The main goal was to take a noisy, unrefined transactional dataset, clean it thoroughly by removing system errors and cancellations, and then run business intelligence queries to understand product trends and customer loyalty.
